@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "FxP4DroeZwjYmUOn8C6Exs9+7A7FZLkB5Y9lWWm+RMNVvOSoxvUQszOSmUJoWYtdok81AsVsKG6GYWw3H5qlRw==",
+  "success": true,
+  "projectFilePath": "D:\\Projeto_vs_dotnet_c#\\ExemploRefit\\ExemploRefit\\ExemploRefit.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gugad\\.nuget\\packages\\refit\\7.0.0\\refit.7.0.0.nupkg.sha512",
+    "C:\\Users\\Gugad\\.nuget\\packages\\system.net.http.json\\7.0.1\\system.net.http.json.7.0.1.nupkg.sha512",
+    "C:\\Users\\Gugad\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\Gugad\\.nuget\\packages\\system.text.json\\7.0.3\\system.text.json.7.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
